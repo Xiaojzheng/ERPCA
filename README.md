@@ -14,6 +14,9 @@ This folder includes four main files: **reduced_defect2.jpg**, **ERPCA_optimizat
 
 4. **steel_defect_ERPCA.Rmd** computes the estimated low-rank structure (background pattern) $\mathbf{L}$ and the recovered sparse anomalies (defects) $\mathbf{S}$, using the $e^{\text{RPCA}}$ (with hyperparamter tuning), RPCA and ePCA in the steel defect detection application.
 
+
 [1] PAO Severstal (2019). Severstal: Steel defect detection. Available: https://www.kaggle.com/competitions/severstal-steel-defect-detection.
+
 [2] Cand`es, E. J., X. Li, Y. Ma, and J. Wright (2011). Robust principal component analysis? Association for Computing Machinery 58 (3).
+
 [3] Liu, L., E. Dobriban, and A. Singer (2018). epca: High dimensional exponential family PCA. Annals of Applied Statistics 12 (4), 2121–2150.
