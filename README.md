@@ -12,7 +12,7 @@ This folder includes four main files: **reduced_defect2.jpg**, **ERPCA_optimizat
 
 3. **ePCA.R** is adapted from the original ePCA algorithm as presented in MATLAB in the ePCA paper **[3]**.
 
-4. **steel_defect_ERPCA.Rmd** computes the estimated low-rank structure (background pattern) $\mathbf{L}$ and the recovered sparse anomalies (defects) $\mathbf{S}$, using the $e^{\text{RPCA}}$ (with hyperparamter tuning), RPCA and ePCA in the steel defect detection application. All plots are shown in **steel_defect_ERPCA.html**.
+4. **steel_defect_ERPCA.Rmd** computes the estimated low-rank structure (background pattern) $\mathbf{L}$ and the recovered sparse anomalies (defects) $\mathbf{S}$, using the $e^{\text{RPCA}}$ (with hyperparamter tuning), RPCA and ePCA in the steel defect detection application. All plots are shown in **steel_defect_ERPCA.pdf**.
 
 
 **[1]** PAO Severstal (2019). Severstal: Steel defect detection. Available: https://www.kaggle.com/competitions/severstal-steel-defect-detection.
